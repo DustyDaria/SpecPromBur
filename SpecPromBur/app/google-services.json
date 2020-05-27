@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "525337482721",
+    "firebase_url": "https://specprombur.firebaseio.com",
+    "project_id": "specprombur",
+    "storage_bucket": "specprombur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525337482721:android:2f7f64764a157b6c7aaea0",
+        "android_client_info": {
+          "package_name": "com.example.specprombur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525337482721-8fajm613p9emu8fb1idb2o1uv2r6vlbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.specprombur",
+            "certificate_hash": "8c1aa7412f6d0cda3a599aa765d5e32a0431b5f0"
+          }
+        },
+        {
+          "client_id": "525337482721-jq1d1o25gh0gvj02dsni5o08k1vfkikp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcVDuVuRxGgbXqQcJ_XLZxRNWNeqsaqqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525337482721-jq1d1o25gh0gvj02dsni5o08k1vfkikp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
